@@ -1,0 +1,16 @@
+# Copyrighted SLRR game / mod assets — never redistribute
+Example cars/
+*.scx
+*.SCX
+*.tex
+*.rpk
+
+# Python
+__pycache__/
+*.pyc
+
+# Editor / OS
+.claude/
+.vscode/
+.DS_Store
+Thumbs.db

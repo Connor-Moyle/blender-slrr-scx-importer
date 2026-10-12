@@ -1,0 +1,21 @@
+schema_version = "1.0.0"
+
+id = "slrr_scx_importer"
+version = "1.3.2"
+name = "SLRR SCX Importer"
+tagline = "Import Street Legal Racing: Redline .scx car models"
+maintainer = "Connor"
+type = "add-on"
+
+website = "https://example.com/slrr-scx-importer"
+
+tags = ["Import-Export", "Mesh", "Material"]
+
+blender_version_min = "4.2.0"
+
+license = [
+  "SPDX:MIT",
+]
+
+# Pure-Python; runs on every platform Blender supports.
+platforms = ["windows-x64", "macos-arm64", "macos-x64", "linux-x64"]
